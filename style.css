@@ -30,7 +30,7 @@ h1{
     width: 40%;
     margin-bottom: 80px;
     padding-left: 2%;
-    box-shadow: 15px 15px red
+   
 
 }
 .flexible img{
@@ -71,22 +71,40 @@ background-image: linear-gradient(315deg, #05e8ba 0%, #087ee1 74%);
 }
 
 
-.flexibility{
-    box-shadow: 1px solid gray;
-    width:250px;
-    margin-top: 7%;
-    
-}
 .flexibility img{
     width: 100%
 } 
-.flexible-container1{
+.flexible-contract{
      display: flex;
      width: 90%;
      margin-left: 76px;
      box-shadow: 8px 6px 8px 6px gray;
      border-radius: 15px;
      font-weight: 700;
+}
+.flexible-container{
+    display: flex;
+    width: 90%;
+    margin-left: 70px;
+}
+.recipe-1{
+    box-shadow: 12px 10px 12px 10px gray;
+    margin: 15px;
+    padding: 15px;
+    border-radius: 8px;
+}
+
+.recipe-2{
+    box-shadow: 12px 10px 12px 10px gray;
+    margin: 22px;
+    padding: 22px;
+    border-radius: 5px;
+}
+.recipe-3{
+    box-shadow: 12px 10px 12px 10px gray;
+    margin: 22px;
+    padding: 22px;
+    border-radius: 5px;
 }
 .goal-1{
     
